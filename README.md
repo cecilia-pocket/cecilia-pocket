@@ -2,6 +2,8 @@
 
 ---
 
+<img align="right" width="250" src="https://media.giphy.com/media/gFbeY4qiYrHOg/giphy-downsized-large.gif">
+
 ```javascript
 class Cecilia {
     constructor() {
@@ -27,9 +29,5 @@ class Cecilia {
     }
 }
 ```
-
-<p align="center">
-  <img width="200" src="https://media.giphy.com/media/gFbeY4qiYrHOg/giphy-downsized-large.gif">
-</p>
 
 ---
