@@ -1,5 +1,7 @@
 ### Hi there, I'm Cécilia :snake:
 
+---
+
 ```javascript
 class Cecilia {
     constructor() {
