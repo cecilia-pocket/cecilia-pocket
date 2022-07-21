@@ -1,9 +1,7 @@
-#### Hi there, I'm Cécilia :snake:
-
----
+### Hi there, I'm Cécilia :snake:
 
 ```javascript
-class  {
+class Cecilia {
     constructor() {
         🧧pronouns: [she, they];
         🌱code: [javascript, html, css, php, c++];
@@ -31,3 +29,5 @@ class  {
 <p align="center">
   <img width="200" src="https://media.giphy.com/media/gFbeY4qiYrHOg/giphy-downsized-large.gif">
 </p>
+
+---
