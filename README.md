@@ -9,8 +9,7 @@ class Cecilia {
     constructor() {
         🧧pronouns: [she, they];
         🌱code: [javascript, html, css, php, c++];
-        🍏tools: [react, node, vscode];
-        🌸misc: [photoshop, figma, premiere];
+        🌸misc: [photoshop, figma];
         🌼hobbies: {
             writing: "pretty stories about strangers";
             makingSpreadsheetsForVideoGames: "don't ask more";
@@ -20,7 +19,7 @@ class Cecilia {
 
     getStatus() {
         return {
-            workingOn: "an internship project",
+            workingOn: "a personal project with nextjs",
         };
     }
 
