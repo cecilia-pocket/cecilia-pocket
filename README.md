@@ -8,18 +8,18 @@
 class Cecilia {
     constructor() {
         🧧pronouns: [she, they];
-        🌱code: [javascript, html, css, php, c++];
+        🌱code: [javascript, php, java, html, css];
         🌸misc: [photoshop, figma];
         🌼hobbies: {
-            writing: "pretty stories about strangers";
-            makingSpreadsheetsForVideoGames: "don't ask more";
+            writing: "stories about fictional characters";
+            watching: "many series and a few movies";
         };
         🍰spokenLanguages: [french, english];
     }
 
     getStatus() {
         return {
-            workingOn: "a personal project with nextjs",
+            workingOn: "a flowershop backoffice with react and spring",
         };
     }
 
